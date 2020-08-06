@@ -5,7 +5,7 @@
     `Dear Alice, the rest of the story is in the attached letter.
       Only you and I can read it,
       Of course the way to open it is your name.
-      In appreciation of Lyon Playfire. `
+      In appreciation of Lyon playfair. `
 
 #### Alice forgot how to decode the "cipher.txt" attachment.:thinking:
 #### All you have to do is decrypt it and send the answers to lior.bennaim@elbitsystesm.com
