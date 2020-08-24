@@ -8,7 +8,7 @@
       In appreciation of Lyon playfair. `
 
 #### Alice forgot how to decode the "cipher.txt" attachment.:thinking:
-#### All you have to do is decrypt it and send the answers to lior.bennaim@elbitsystesm.com
+#### All you have to do is decrypt it and fill the following form https://forms.gle/fcsYYLQypK77VfZn6
 
 The answers should contain:
 - [x] Code to solve the first challenge
